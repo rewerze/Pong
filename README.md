@@ -12,8 +12,6 @@ Nem egy bonyolult játékról van szó, egy egyszerű local multiplayer asztali 
   * játék újra indítása
   * kilépés a főmenübe
 - Fő menű
-  * játék indítása
-  * kilépés a játékból
   * rövid ismertő a játékról
   * beállítások
 - Beállítások
