@@ -7,16 +7,5 @@ Nem egy bonyolult játékról van szó, egy egyszerű local multiplayer asztali 
 
 
 
-## Tervek amik még folyamatban:
-- Játék vége felirat
-  * játék újra indítása
-  * kilépés a főmenübe
-- Fő menű
-  * játék indítása
-  * kilépés a játékból
-  * rövid ismertő a játékról
-  * beállítások
-- Beállítások
-  * változtatható hátterek
-  * változtatható skinek
-  * nehézség szint
+## Folyamatban lévő javítás:
+- Játék vége után való kilépési lehetőség
